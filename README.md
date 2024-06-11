@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm victor</h1>
 <h3 align="center">Software Engineering Supervisor @ RSUP Prof. Dr. R.D. Kandou Manado | Expertise in TypeScript, C# and DevOps</h3>
 
+<p>Software engineers at RSUP Prof. Dr. R.D. Kandou Manado, a hospital that provides quality health care services to the people of Manado and beyond. We build and maintain web applications that enhance the hospital's operations and patient experience, using modern technologies and frameworks such as NextJs, NestJs, and .Net Core.</p>
+
+<p> I also manage the continuous integration and delivery pipeline, using tools such as Jenkins, GitLab, Ansible, and Terraform, to ensure the quality and reliability of the software delivery process. I have a certificate in DevOps engineering from Sekolah DevOps. I enjoy creating production applications for myself and the hospital, and helping people improve their programming skills. My goal is to use my skills and expertise to make a positive impact on the health sector and society.</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victormongi&label=Profile%20views&color=0e75b6&style=flat" alt="victormongi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=victormongi" alt="victormongi" /></a> </p>
